@@ -1,4 +1,4 @@
-# ALFU_FAST_CLONING_ALLinstallation
+installation
 🔗 pkg update
 
 🔗 pkg upgrade
@@ -17,6 +17,6 @@
 
 🔗 cd ALFU_FAST_CLONING_ALL
 
-🔗 python1 alfu_malty_enc.py
+🔗 python alfu_malty_enc.py
 
 🖤 Thank you For Using My Tools 🖤
